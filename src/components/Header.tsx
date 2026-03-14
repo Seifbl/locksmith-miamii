@@ -41,7 +41,7 @@ export default function Header() {
       </header>
 
       {/* Mobile sticky bottom call button */}
-      <div className="fixed bottom-0 left-0 right-0 z-50 md:hidden">
+      <div className="fixed bottom-0 left-0 right-0 z-50 md:hidden pb-safe">
         <a
           href="tel:+13055550192"
           className="flex items-center justify-center gap-3 bg-amber-500 hover:bg-amber-400 text-gray-900 font-extrabold text-lg py-4 w-full phone-pulse"

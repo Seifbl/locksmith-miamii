@@ -22,8 +22,8 @@ export default function MiamiLocksmithPage() {
       <Testimonials />
       <CallToAction />
       <Footer />
-      {/* Bottom padding for mobile sticky call button */}
-      <div className="h-16 md:hidden" />
+      {/* Bottom padding for mobile sticky call button (accounts for iPhone safe area) */}
+      <div className="h-20 md:hidden" />
     </main>
   );
 }

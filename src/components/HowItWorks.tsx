@@ -68,7 +68,7 @@ export default function HowItWorks() {
 
           {/* Right: Image collage */}
           <div className="grid grid-cols-2 gap-3">
-            <div className="relative h-52 rounded-2xl overflow-hidden">
+            <div className="relative h-40 sm:h-52 rounded-2xl overflow-hidden">
               <Image
                 src="/images/commercial-bar.jpg"
                 alt="Commercial lockout service Miami"
@@ -77,7 +77,7 @@ export default function HowItWorks() {
                 sizes="(max-width: 1024px) 50vw, 25vw"
               />
             </div>
-            <div className="relative h-52 rounded-2xl overflow-hidden">
+            <div className="relative h-40 sm:h-52 rounded-2xl overflow-hidden">
               <Image
                 src="/images/push-bar.jpg"
                 alt="Push bar door lockout Miami"
@@ -86,7 +86,7 @@ export default function HowItWorks() {
                 sizes="(max-width: 1024px) 50vw, 25vw"
               />
             </div>
-            <div className="relative h-52 rounded-2xl overflow-hidden col-span-2">
+            <div className="relative h-40 sm:h-52 rounded-2xl overflow-hidden col-span-2">
               <Image
                 src="/images/door-knob.jpg"
                 alt="Residential lockout Miami"

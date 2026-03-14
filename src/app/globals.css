@@ -8,6 +8,10 @@
   }
   body {
     @apply text-gray-900 antialiased;
+    -webkit-tap-highlight-color: transparent;
+  }
+  * {
+    -webkit-text-size-adjust: 100%;
   }
 }
 
@@ -17,6 +21,9 @@
   }
   .phone-pulse {
     animation: phonePulse 1.8s ease-in-out infinite;
+  }
+  .pb-safe {
+    padding-bottom: env(safe-area-inset-bottom);
   }
 }
 

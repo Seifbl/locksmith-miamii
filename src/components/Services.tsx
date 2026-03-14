@@ -61,7 +61,7 @@ export default function Services() {
               className="bg-white rounded-2xl overflow-hidden shadow-md hover:shadow-xl transition-shadow duration-300 group flex flex-col"
             >
               {/* Image */}
-              <div className="relative h-52 overflow-hidden flex-shrink-0">
+              <div className="relative h-44 sm:h-52 overflow-hidden flex-shrink-0">
                 <Image
                   src={service.image}
                   alt={service.alt}
