@@ -1,0 +1,29 @@
+import Header from "@/components/Header";
+import Hero from "@/components/Hero";
+import UrgencyStrip from "@/components/UrgencyStrip";
+import Services from "@/components/Services";
+import WhyUs from "@/components/WhyUs";
+import HowItWorks from "@/components/HowItWorks";
+import ServiceArea from "@/components/ServiceArea";
+import Testimonials from "@/components/Testimonials";
+import CallToAction from "@/components/CallToAction";
+import Footer from "@/components/Footer";
+
+export default function MiamiLocksmithPage() {
+  return (
+    <main>
+      <Header />
+      <Hero />
+      <UrgencyStrip />
+      <Services />
+      <WhyUs />
+      <HowItWorks />
+      <ServiceArea />
+      <Testimonials />
+      <CallToAction />
+      <Footer />
+      {/* Bottom padding for mobile sticky call button */}
+      <div className="h-16 md:hidden" />
+    </main>
+  );
+}
