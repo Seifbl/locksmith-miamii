@@ -231,6 +231,11 @@ export default function RootLayout({
         <meta name="ICBM" content="38.8816, -77.091" />
         <link rel="icon" href="/favicon.ico" sizes="any" />
         <script
+          src="https://analytics.ahrefs.com/analytics.js"
+          data-key="NSQ1ozShi5v60xjJpaTrWg"
+          async
+        />
+        <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
