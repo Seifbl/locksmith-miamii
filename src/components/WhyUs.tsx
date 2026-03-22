@@ -1,8 +1,8 @@
 const reasons = [
   {
     icon: "⚡",
-    title: "Fastest Response in Miami",
-    desc: "Average 20-minute arrival across all Miami-Dade neighborhoods — day or night.",
+    title: "Fastest Response in Arlington",
+    desc: "Average 20-minute arrival across all Arlington neighborhoods — day or night.",
   },
   {
     icon: "💰",
@@ -12,7 +12,7 @@ const reasons = [
   {
     icon: "🔐",
     title: "Licensed & Insured",
-    desc: "Fully licensed Florida locksmiths. We carry ID and credentials to every job.",
+    desc: "Fully licensed Virginia locksmiths. We carry ID and credentials to every job.",
   },
   {
     icon: "📱",
@@ -27,7 +27,7 @@ const reasons = [
   {
     icon: "🏆",
     title: "500+ 5-Star Reviews",
-    desc: "Hundreds of Miami residents and businesses trust QuickLock every year.",
+    desc: "Hundreds of Arlington residents and businesses trust arlington247lockrepair every year.",
   },
 ];
 
@@ -41,7 +41,7 @@ export default function WhyUs() {
             Why Choose Us
           </p>
           <h2 className="text-3xl sm:text-4xl font-extrabold text-gray-900 mb-4">
-            Why Miami Trusts QuickLock
+            Why Arlington Trusts arlington247lockrepair
           </h2>
           <p className="text-gray-600 max-w-xl mx-auto text-lg">
             When you&apos;re locked out, you need someone fast, honest, and professional.
@@ -68,13 +68,13 @@ export default function WhyUs() {
         {/* CTA */}
         <div className="text-center mt-12">
           <a
-            href="tel:+13055550192"
+            href="tel:+17032440559"
             className="inline-flex items-center gap-2 bg-red-600 hover:bg-red-700 text-white font-bold text-lg px-10 py-4 rounded-xl transition-colors duration-200"
           >
             <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
               <path d="M6.62 10.79c1.44 2.83 3.76 5.14 6.59 6.59l2.2-2.2c.27-.27.67-.36 1.02-.24 1.12.37 2.33.57 3.57.57.55 0 1 .45 1 1V20c0 .55-.45 1-1 1-9.39 0-17-7.61-17-17 0-.55.45-1 1-1h3.5c.55 0 1 .45 1 1 0 1.25.2 2.45.57 3.57.11.35.03.74-.25 1.02l-2.2 2.2z" />
             </svg>
-            Call (305) 555-0192 Now
+            Call (703) 244-0559 Now
           </a>
         </div>
       </div>

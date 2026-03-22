@@ -4,13 +4,13 @@ const steps = [
   {
     number: "1",
     title: "Call Us",
-    desc: "Call our Miami number anytime. Tell us your location and what happened. No waiting on hold — a real person picks up.",
+    desc: "Call our Arlington number anytime. Tell us your location and what happened. No waiting on hold — a real person picks up.",
     color: "bg-red-600",
   },
   {
     number: "2",
     title: "We Dispatch",
-    desc: "A licensed technician is sent to you immediately — usually arriving in under 20 minutes anywhere in Miami-Dade.",
+    desc: "A licensed technician is sent to you immediately — usually arriving in under 20 minutes anywhere in Arlington.",
     color: "bg-amber-500",
   },
   {
@@ -32,10 +32,10 @@ export default function HowItWorks() {
               Simple Process
             </p>
             <h2 className="text-3xl sm:text-4xl font-extrabold mb-4">
-              How Our Miami Locksmith Service Works
+              How Our Arlington Locksmith Service Works
             </h2>
             <p className="text-gray-400 text-lg mb-10">
-              Getting back inside takes 3 simple steps. Most Miami customers are
+              Getting back inside takes 3 simple steps. Most Arlington customers are
               unlocked within 30 minutes of calling.
             </p>
 
@@ -56,7 +56,7 @@ export default function HowItWorks() {
             </div>
 
             <a
-              href="tel:+13055550192"
+              href="tel:+17032440559"
               className="inline-flex items-center gap-2 mt-10 bg-amber-500 hover:bg-amber-400 text-gray-900 font-extrabold text-lg px-8 py-4 rounded-xl transition-colors duration-200 phone-pulse"
             >
               <svg className="w-5 h-5" fill="currentColor" viewBox="0 0 24 24">
@@ -71,7 +71,7 @@ export default function HowItWorks() {
             <div className="relative h-40 sm:h-52 rounded-2xl overflow-hidden">
               <Image
                 src="/images/commercial-bar.jpg"
-                alt="Commercial lockout service Miami"
+                alt="Commercial lockout service Arlington"
                 fill
                 className="object-cover"
                 sizes="(max-width: 1024px) 50vw, 25vw"
@@ -80,7 +80,7 @@ export default function HowItWorks() {
             <div className="relative h-40 sm:h-52 rounded-2xl overflow-hidden">
               <Image
                 src="/images/push-bar.jpg"
-                alt="Push bar door lockout Miami"
+                alt="Push bar door lockout Arlington"
                 fill
                 className="object-cover"
                 sizes="(max-width: 1024px) 50vw, 25vw"
@@ -89,7 +89,7 @@ export default function HowItWorks() {
             <div className="relative h-40 sm:h-52 rounded-2xl overflow-hidden col-span-2">
               <Image
                 src="/images/door-knob.jpg"
-                alt="Residential lockout Miami"
+                alt="Residential lockout Arlington"
                 fill
                 className="object-cover object-center"
                 sizes="(max-width: 1024px) 100vw, 50vw"

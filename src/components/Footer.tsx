@@ -9,11 +9,11 @@ export default function Footer() {
             <div className="flex items-center gap-2 mb-3">
               <span className="text-xl">🔑</span>
               <span className="text-white font-bold text-lg">
-                QuickLock <span className="text-red-500">Miami</span>
+                arlington247<span className="text-red-500">lockrepair</span>
               </span>
             </div>
             <p className="text-sm leading-relaxed">
-              24/7 emergency locksmith service across Miami-Dade County.
+              24/7 emergency locksmith service across Arlington County.
               Licensed, insured, and ready to help any time.
             </p>
           </div>
@@ -36,26 +36,26 @@ export default function Footer() {
             <ul className="space-y-2 text-sm">
               <li>
                 <a
-                  href="tel:+13055550192"
+                  href="tel:+17032440559"
                   className="text-amber-400 font-bold text-base hover:text-amber-300"
                 >
-                  (305) 555-0192
+                  (703) 244-0559
                 </a>
               </li>
-              <li>Miami, FL 33101</li>
+              <li>Arlington, VA 22201</li>
               <li>
                 <span className="text-green-400 font-medium">
                   Open 24/7 — Every Day
                 </span>
               </li>
-              <li>License #FL-LOCK-2847</li>
+              <li>License #VA-LOCK-2847</li>
             </ul>
           </div>
         </div>
 
         <div className="border-t border-gray-800 pt-6 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs">
           <p>
-            &copy; {year} QuickLock Miami. All rights reserved.
+            &copy; {year} arlington247lockrepair. All rights reserved.
           </p>
           <div className="flex gap-4">
             <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>

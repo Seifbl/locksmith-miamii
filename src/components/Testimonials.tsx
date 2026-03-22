@@ -1,44 +1,44 @@
 const reviews = [
   {
     name: "Maria G.",
-    location: "Brickell, Miami",
+    location: "Ballston, Arlington",
     rating: 5,
-    text: "I was locked out of my condo at 11pm. QuickLock arrived in 18 minutes and had me inside within 5. I was panicking and they were so calm and professional. Absolute lifesavers!",
+    text: "I was locked out of my condo at 11pm. arlington247lockrepair arrived in 18 minutes and had me inside within 5. I was panicking and they were so calm and professional. Absolute lifesavers!",
     service: "Home Lockout",
   },
   {
     name: "James T.",
-    location: "Coral Gables, Miami",
+    location: "Clarendon, Arlington",
     rating: 5,
-    text: "Keys locked in my car outside the Miracle Mile on a hot afternoon. Tech arrived faster than I expected, very professional and explained everything before starting. Incredibly affordable too.",
+    text: "Keys locked in my car outside the shops on a hot afternoon. Tech arrived faster than I expected, very professional and explained everything before starting. Incredibly affordable too.",
     service: "Car Lockout",
   },
   {
     name: "Sofia R.",
-    location: "Doral, Miami",
+    location: "Crystal City, Arlington",
     rating: 5,
     text: "Locked out of my office on a Monday morning with a team waiting inside. They came in under 20 minutes, zero damage to the door or lock. Will save this number forever.",
     service: "Office Lockout",
   },
   {
     name: "Carlos M.",
-    location: "Hialeah, Miami",
+    location: "Pentagon City, Arlington",
     rating: 5,
     text: "Key snapped off in my front door lock at midnight. They extracted it cleanly and even re-keyed the lock on the spot. Quick, honest pricing — exactly what you need in an emergency.",
     service: "Key Extraction",
   },
   {
     name: "Ashley W.",
-    location: "Miami Beach",
+    location: "Rosslyn, Arlington",
     rating: 5,
-    text: "First time being locked out and I was stressed. Called QuickLock and the person on the phone was reassuring and the tech arrived in 15 minutes. 10/10 would recommend to anyone in Miami.",
+    text: "First time being locked out and I was stressed. Called arlington247lockrepair and the person on the phone was reassuring and the tech arrived in 15 minutes. 10/10 would recommend to anyone in Arlington.",
     service: "Home Lockout",
   },
   {
     name: "Roberto P.",
-    location: "Kendall, Miami",
+    location: "Shirlington, Arlington",
     rating: 5,
-    text: "Had an emergency at my retail store — staff locked inside after closing. QuickLock handled the commercial push bar perfectly. Real professionals. Saved us a lot of stress.",
+    text: "Had an emergency at my retail store — staff locked inside after closing. arlington247lockrepair handled the commercial push bar perfectly. Real professionals. Saved us a lot of stress.",
     service: "Commercial Lockout",
   },
 ];
@@ -64,7 +64,7 @@ export default function Testimonials() {
             Real Reviews
           </p>
           <h2 className="text-3xl sm:text-4xl font-extrabold text-gray-900 mb-4">
-            What Miami Customers Say
+            What Arlington Customers Say
           </h2>
           <div className="flex items-center justify-center gap-2 text-gray-600">
             <StarRating count={5} />

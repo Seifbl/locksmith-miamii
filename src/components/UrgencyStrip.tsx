@@ -4,12 +4,12 @@ export default function UrgencyStrip() {
       <p className="text-base sm:text-lg font-bold tracking-wide">
         🚨 Locked Out Right Now? Don&apos;t Wait —{" "}
         <a
-          href="tel:+13055550192"
+          href="tel:+17032440559"
           className="underline underline-offset-2 hover:text-amber-300 transition-colors"
         >
           Call Us Immediately
         </a>
-        . Technicians Standing By in Miami.
+        . Technicians Standing By in Arlington.
       </p>
     </div>
   );

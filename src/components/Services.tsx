@@ -4,31 +4,31 @@ const services = [
   {
     title: "Home Lockout",
     image: "/images/door-knob.jpg",
-    alt: "Home lockout service Miami — door knob",
+    alt: "Home lockout service Arlington — door knob",
     description:
-      "Locked out of your house or apartment in Miami? We'll get you back inside fast — without damaging your door or lock.",
+      "Locked out of your house or apartment in Arlington? We'll get you back inside fast — without damaging your door or lock.",
     detail: "Covers: houses, condos, apartments, townhomes",
   },
   {
     title: "Car Lockout",
     image: "/images/car-lock.jpg",
-    alt: "Car lockout service Miami — vehicle lock",
+    alt: "Car lockout service Arlington — vehicle lock",
     description:
-      "Keys locked in your car? Our Miami technicians unlock all vehicle makes and models quickly and safely.",
+      "Keys locked in your car? Our Arlington technicians unlock all vehicle makes and models quickly and safely.",
     detail: "All makes & models · No damage guarantee",
   },
   {
     title: "Office / Commercial Lockout",
     image: "/images/office-latch.jpg",
-    alt: "Office lockout service Miami — commercial door latch",
+    alt: "Office lockout service Arlington — commercial door latch",
     description:
-      "Locked out of your Miami office or business? We service commercial deadbolts, panic bars, and access control doors.",
+      "Locked out of your Arlington office or business? We service commercial deadbolts, panic bars, and access control doors.",
     detail: "Offices, retail, warehouses, storefronts",
   },
   {
     title: "Key Stuck in Lock",
     image: "/images/night-lock.jpg",
-    alt: "Key stuck in lock Miami — emergency extraction",
+    alt: "Key stuck in lock Arlington — emergency extraction",
     description:
       "Broken or stuck key in your lock? We extract it safely and get you back in — often without replacing the lock.",
     detail: "Key extraction · Lock repair · On-the-spot re-key",
@@ -45,10 +45,10 @@ export default function Services() {
             What We Do
           </p>
           <h2 className="text-3xl sm:text-4xl font-extrabold text-gray-900 mb-4">
-            Emergency Lockout Services in Miami
+            Emergency Lockout Services in Arlington
           </h2>
           <p className="text-gray-600 max-w-2xl mx-auto text-lg">
-            Whatever type of lockout you&apos;re facing, our Miami locksmiths are
+            Whatever type of lockout you&apos;re facing, our Arlington locksmiths are
             ready to respond — any time, day or night.
           </p>
         </div>
@@ -84,7 +84,7 @@ export default function Services() {
 
                 {/* CTA pinned to bottom */}
                 <a
-                  href="tel:+13055550192"
+                  href="tel:+17032440559"
                   className="block text-center bg-gray-900 hover:bg-red-600 text-white text-sm font-bold py-2.5 rounded-lg transition-colors duration-200 mt-auto"
                 >
                   Call for Help Now

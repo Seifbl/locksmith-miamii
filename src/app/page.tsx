@@ -9,7 +9,7 @@ import Testimonials from "@/components/Testimonials";
 import CallToAction from "@/components/CallToAction";
 import Footer from "@/components/Footer";
 
-export default function MiamiLocksmithPage() {
+export default function ArlingtonLocksmithPage() {
   return (
     <main>
       <Header />
