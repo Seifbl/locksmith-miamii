@@ -22,11 +22,11 @@ export default function Footer() {
           <div>
             <h4 className="text-white font-semibold mb-3">Services</h4>
             <ul className="space-y-1 text-sm">
-              <li>Home Lockout Service</li>
-              <li>Car Lockout Service</li>
-              <li>Office Lockout Service</li>
+              <li>Emergency Exit Doors</li>
+              <li>Door Hardware Replacements</li>
+              <li>Office / Storefront Lockout</li>
               <li>Key Stuck / Extraction</li>
-              <li>Emergency Door Unlocking</li>
+              <li>Commercial Lock Service</li>
             </ul>
           </div>
 

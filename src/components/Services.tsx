@@ -2,28 +2,28 @@ import Image from "next/image";
 
 const services = [
   {
-    title: "Home Lockout",
+    title: "Emergency Exit Doors",
     image: "/images/door-knob.jpg",
-    alt: "Home lockout service Arlington — door knob",
+    alt: "Emergency exit door installation and repair Arlington",
     description:
-      "Locked out of your house or apartment in Arlington? We'll get you back inside fast — without damaging your door or lock.",
-    detail: "Covers: houses, condos, apartments, townhomes",
+      "Need emergency exit door installation, repair, or compliance inspection in Arlington? We handle panic bars, fire-rated doors, and ADA-compliant exits.",
+    detail: "Panic bars · Fire-rated doors · ADA compliance · Inspections",
   },
   {
-    title: "Car Lockout",
+    title: "Door Hardware Replacements",
     image: "/images/car-lock.jpg",
-    alt: "Car lockout service Arlington — vehicle lock",
+    alt: "Door hardware replacement service Arlington",
     description:
-      "Keys locked in your car? Our Arlington technicians unlock all vehicle makes and models quickly and safely.",
-    detail: "All makes & models · No damage guarantee",
+      "Worn-out or broken door hardware? We replace knobs, levers, hinges, closers, deadbolts, and commercial-grade handles — fast and affordable.",
+    detail: "Knobs · Levers · Hinges · Closers · Deadbolts",
   },
   {
-    title: "Office / Commercial Lockout",
+    title: "Office / Commercial / Storefront Lockout",
     image: "/images/office-latch.jpg",
-    alt: "Office lockout service Arlington — commercial door latch",
+    alt: "Office and storefront lockout service Arlington — commercial door latch",
     description:
-      "Locked out of your Arlington office or business? We service commercial deadbolts, panic bars, and access control doors.",
-    detail: "Offices, retail, warehouses, storefronts",
+      "Locked out of your Arlington office, storefront, or business? We service commercial deadbolts, panic bars, glass storefront locks, and access control doors.",
+    detail: "Offices, retail, storefronts, warehouses",
   },
   {
     title: "Key Stuck in Lock",
@@ -99,8 +99,8 @@ export default function Services() {
           <p className="text-gray-500 text-sm">
             Also serving:{" "}
             <span className="font-medium text-gray-700">
-              emergency door unlocking, broken key extraction, lock-in services,
-              padlock removal, and more.
+              emergency door unlocking, broken key extraction, storefront lock repair,
+              door hardware installation, and more.
             </span>
           </p>
         </div>

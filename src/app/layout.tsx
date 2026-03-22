@@ -177,42 +177,82 @@ const faqJsonLd = {
   mainEntity: [
     {
       "@type": "Question",
-      name: "How fast can a locksmith get to me in Arlington?",
+      name: "How quickly can you respond to an emergency lockout in Arlington?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Our average response time is 20 minutes anywhere in Arlington County. We have technicians stationed throughout the area for fast dispatch 24/7.",
+        text: "Our average response time is 20 minutes or less anywhere in Arlington County. We have mobile technicians stationed throughout Ballston, Clarendon, Crystal City, Rosslyn, and surrounding neighborhoods ready to dispatch 24/7 — including nights, weekends, and holidays.",
       },
     },
     {
       "@type": "Question",
-      name: "How much does an emergency lockout service cost in Arlington?",
+      name: "How much does a lockout service cost?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "We provide upfront flat-rate pricing before any work begins. There are no hidden fees or call-out charges. Pricing varies by service type — call (703) 244-0559 for a free quote.",
+        text: "We provide upfront flat-rate pricing before any work begins — no hidden fees, no surprise charges, and no call-out fee. The exact cost depends on the type of lockout (residential, commercial, storefront, or auto). Call (703) 244-0559 for a free, no-obligation quote.",
       },
     },
     {
       "@type": "Question",
-      name: "Are you available 24 hours a day?",
+      name: "Are you available 24 hours a day, 7 days a week?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "Yes, arlington247lockrepair is available 24 hours a day, 7 days a week, 365 days a year — including holidays and weekends.",
+        text: "Yes. arlington247lockrepair operates 24 hours a day, 7 days a week, 365 days a year. Whether it's 2am on a Tuesday or Christmas morning, a real person will answer your call and dispatch a technician immediately.",
       },
     },
     {
       "@type": "Question",
-      name: "Will you damage my lock or door?",
+      name: "Will you damage my door or lock during a lockout?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "No. We use professional non-destructive entry techniques. Your lock and door stay intact. We offer a no-damage guarantee on all lockout services.",
+        text: "No. We use professional non-destructive entry techniques on every job. Your lock, door, and frame stay intact. We back this up with a no-damage guarantee. If any damage occurs during our service, we cover the repair at no cost to you.",
       },
     },
     {
       "@type": "Question",
-      name: "What areas do you serve near Arlington?",
+      name: "Do you service storefront and commercial locks?",
       acceptedAnswer: {
         "@type": "Answer",
-        text: "We serve all of Arlington County including Ballston, Clarendon, Courthouse, Crystal City, Pentagon City, Rosslyn, Shirlington, Columbia Pike, Cherrydale, and all surrounding neighborhoods.",
+        text: "Absolutely. We specialize in commercial and storefront lockouts including glass storefront door locks, panic bars, push bars, access control systems, high-security deadbolts, and master key systems. We serve offices, retail shops, restaurants, and warehouses across Arlington.",
+      },
+    },
+    {
+      "@type": "Question",
+      name: "Can you replace door hardware on the spot?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "Yes. Our technicians carry a full inventory of commercial and residential door hardware including knobs, levers, deadbolts, hinges, and door closers. In most cases we can replace your hardware in a single visit — no need to schedule a follow-up.",
+      },
+    },
+    {
+      "@type": "Question",
+      name: "Do you install and repair emergency exit doors?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "Yes. We install, repair, and inspect emergency exit doors, panic hardware, and fire-rated door assemblies. We ensure your doors meet local fire codes, ADA requirements, and Virginia building regulations.",
+      },
+    },
+    {
+      "@type": "Question",
+      name: "Are your locksmiths licensed and insured?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "Yes. Every technician on our team is fully licensed in the state of Virginia, background-checked, and carries proof of insurance. We bring our credentials to every job so you can verify before we start.",
+      },
+    },
+    {
+      "@type": "Question",
+      name: "What areas do you serve?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "We serve all of Arlington County and surrounding areas including Ballston, Clarendon, Courthouse, Crystal City, Pentagon City, Rosslyn, Shirlington, Columbia Pike, Cherrydale, Lyon Village, Bluemont, Westover, Fairlington, and more. Call us to confirm coverage for your location.",
+      },
+    },
+    {
+      "@type": "Question",
+      name: "Do I need to provide ID to get a lockout service?",
+      acceptedAnswer: {
+        "@type": "Answer",
+        text: "For your safety and ours, we may ask for proof of residence or authorization (such as a photo ID, lease, or utility bill) before performing a lockout service. This protects you and ensures we're helping the rightful owner or tenant.",
       },
     },
   ],
